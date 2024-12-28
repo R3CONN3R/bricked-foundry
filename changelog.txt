@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2024-12-27
+  Changes:
+    - Fixed thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2024-12-27
+  Features:
+    - Added rail casting recipe
+  Other:
+    - Balance adjustments
+    - Reduced filesize
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2024-12-27
+  Changes:
+    - Initial release
+  Features:
+    - Added stone brick casting recipe and molten stone fluid

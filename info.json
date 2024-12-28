@@ -1,0 +1,13 @@
+{
+  "name": "bricked-foundry",
+  "version": "0.0.3",
+  "title": "Bricked Foundry",
+  "author": "R3CONN3R",
+  "homepage": "https://mods.factorio.com/mod/bricked-foundry",
+  "description": "Adds molten stone, casting stone brick and casting rail recipe to the foundry",
+  "space_travel_required": true,
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.24"
+  ]
+}
