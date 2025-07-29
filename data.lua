@@ -58,7 +58,7 @@ data:extend(
         },
         {
             type = "recipe",
-            name = "casting-rail",
+            name = "casting-rail-liquid-stone",
             category = "metallurgy",
             localised_name = { "item-name.rail" },
             localised_description = { "recipe-name.rail" },
