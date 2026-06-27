@@ -3,7 +3,7 @@ data:extend(
         {
             type = "recipe",
             name = "molten-stone-bricked-foundry",
-            category = "metallurgy",
+            categories = { "metallurgy" },
             subgroup = "vulcanus-processes",
             order = "a[melting]-c[molten-stone]",
             auto_recycle = false,
@@ -25,7 +25,7 @@ data:extend(
         {
             type = "recipe",
             name = "casting-stone-bricked-foundry",
-            category = "metallurgy",
+            categories = { "metallurgy" },
             subgroup = "vulcanus-processes",
             order = "b[casting]-a[casting-stone]",
             icons = {
@@ -59,7 +59,7 @@ data:extend(
         {
             type = "recipe",
             name = "casting-rail-bricked-foundry",
-            category = "metallurgy",
+            categories = { "metallurgy" },
             localised_name = { "item-name.rail" },
             localised_description = { "recipe-name.rail" },
             subgroup = "vulcanus-processes",
